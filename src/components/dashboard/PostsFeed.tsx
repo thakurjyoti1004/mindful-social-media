@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 import { Post, ConnectionSpeed } from "../types";
 import PostItem from "./PostItem";
 
